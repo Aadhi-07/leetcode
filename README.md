@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Aadhi-07/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Aadhi-07/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Aadhi-07/leetcode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/Aadhi-07/leetcode/tree/master/0067-add-binary) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aadhi-07/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## String
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Aadhi-07/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Aadhi-07/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Aadhi-07/leetcode/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/Aadhi-07/leetcode/tree/master/0067-add-binary) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aadhi-07/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Aadhi-07/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Trie
@@ -64,5 +66,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Aadhi-07/leetcode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Aadhi-07/leetcode/tree/master/0190-reverse-bits) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Aadhi-07/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
