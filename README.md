@@ -72,4 +72,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Aadhi-07/leetcode/tree/master/0067-add-binary) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Aadhi-07/leetcode/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Aadhi-07/leetcode/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Aadhi-07/leetcode/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
