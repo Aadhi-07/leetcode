@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Aadhi-07/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Aadhi-07/leetcode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/Aadhi-07/leetcode/tree/master/0067-add-binary) |
+| [0696-count-binary-substrings](https://github.com/Aadhi-07/leetcode/tree/master/0696-count-binary-substrings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aadhi-07/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Aadhi-07/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Trie
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aadhi-07/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0696-count-binary-substrings](https://github.com/Aadhi-07/leetcode/tree/master/0696-count-binary-substrings) |
 | [1768-merge-strings-alternately](https://github.com/Aadhi-07/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
