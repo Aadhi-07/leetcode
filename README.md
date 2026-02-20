@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Aadhi-07/leetcode/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/Aadhi-07/leetcode/tree/master/0165-compare-version-numbers) |
 | [0696-count-binary-substrings](https://github.com/Aadhi-07/leetcode/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/Aadhi-07/leetcode/tree/master/0761-special-binary-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aadhi-07/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Aadhi-07/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Trie
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Aadhi-07/leetcode/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/Aadhi-07/leetcode/tree/master/0761-special-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Aadhi-07/leetcode/tree/master/0110-balanced-binary-tree) |
+## Sorting
+|  |
+| ------- |
+| [0761-special-binary-string](https://github.com/Aadhi-07/leetcode/tree/master/0761-special-binary-string) |
 <!---LeetCode Topics End-->
