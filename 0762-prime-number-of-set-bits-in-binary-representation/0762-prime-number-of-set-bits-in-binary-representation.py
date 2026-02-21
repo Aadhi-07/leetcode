@@ -1,11 +1,17 @@
 class Solution(object):
     def countPrimeSetBits(self, left, right):
         primes = {2, 3, 5, 7, 11, 13, 17, 19}
-        count = 0
         
-        for num in range(left, right + 1):
-            set_bits = bin(num).count('1')
-            if set_bits in primes:
+        def countBits(n):
+            count = 0
+            while n:
+                n &= (n - 1)
                 count += 1
+            return count
         
-        return count
+        ans = 0
+        for num in range(left, right + 1):
+            if countBits(num) in primes:
+                ans += 1
+        
+        return ans
