@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Aadhi-07/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Aadhi-07/leetcode/tree/master/0014-longest-common-prefix) |
+| [0120-triangle](https://github.com/Aadhi-07/leetcode/tree/master/0120-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aadhi-07/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0120-triangle](https://github.com/Aadhi-07/leetcode/tree/master/0120-triangle) |
 | [0799-champagne-tower](https://github.com/Aadhi-07/leetcode/tree/master/0799-champagne-tower) |
 ## Divide and Conquer
 |  |
