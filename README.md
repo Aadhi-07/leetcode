@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Aadhi-07/leetcode/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Aadhi-07/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aadhi-07/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3848-check-digitorial-permutation](https://github.com/Aadhi-07/leetcode/tree/master/3848-check-digitorial-permutation) |
 ## String
 |  |
 | ------- |
@@ -118,4 +119,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aadhi-07/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3848-check-digitorial-permutation](https://github.com/Aadhi-07/leetcode/tree/master/3848-check-digitorial-permutation) |
 <!---LeetCode Topics End-->
