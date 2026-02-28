@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aadhi-07/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Aadhi-07/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1768-merge-strings-alternately](https://github.com/Aadhi-07/leetcode/tree/master/1768-merge-strings-alternately) |
+| [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Aadhi-07/leetcode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Trie
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Aadhi-07/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aadhi-07/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Aadhi-07/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Aadhi-07/leetcode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Simulation
 |  |
 | ------- |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aadhi-07/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3848-check-digitorial-permutation](https://github.com/Aadhi-07/leetcode/tree/master/3848-check-digitorial-permutation) |
+## Greedy
+|  |
+| ------- |
+| [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Aadhi-07/leetcode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 <!---LeetCode Topics End-->
