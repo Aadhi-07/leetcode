@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Aadhi-07/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0120-triangle](https://github.com/Aadhi-07/leetcode/tree/master/0120-triangle) |
 | [0799-champagne-tower](https://github.com/Aadhi-07/leetcode/tree/master/0799-champagne-tower) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Aadhi-07/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3850-count-sequences-to-k](https://github.com/Aadhi-07/leetcode/tree/master/3850-count-sequences-to-k) |
 ## Divide and Conquer
 |  |
@@ -143,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aadhi-07/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+## Prefix Sum
+|  |
+| ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Aadhi-07/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 <!---LeetCode Topics End-->
