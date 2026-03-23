@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Aadhi-07/leetcode/tree/master/0120-triangle) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aadhi-07/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aadhi-07/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Aadhi-07/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aadhi-07/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aadhi-07/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3850-count-sequences-to-k](https://github.com/Aadhi-07/leetcode/tree/master/3850-count-sequences-to-k) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Aadhi-07/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0120-triangle](https://github.com/Aadhi-07/leetcode/tree/master/0120-triangle) |
 | [0799-champagne-tower](https://github.com/Aadhi-07/leetcode/tree/master/0799-champagne-tower) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Aadhi-07/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Aadhi-07/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Aadhi-07/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3850-count-sequences-to-k](https://github.com/Aadhi-07/leetcode/tree/master/3850-count-sequences-to-k) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aadhi-07/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Aadhi-07/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aadhi-07/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Prefix Sum
 |  |
