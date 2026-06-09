@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Aadhi-07/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Aadhi-07/leetcode/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/Aadhi-07/leetcode/tree/master/0120-triangle) |
+| [0485-max-consecutive-ones](https://github.com/Aadhi-07/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0999-available-captures-for-rook](https://github.com/Aadhi-07/leetcode/tree/master/0999-available-captures-for-rook) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aadhi-07/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1470-shuffle-the-array](https://github.com/Aadhi-07/leetcode/tree/master/1470-shuffle-the-array) |
