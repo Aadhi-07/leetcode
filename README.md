@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Aadhi-07/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Aadhi-07/leetcode/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/Aadhi-07/leetcode/tree/master/0120-triangle) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aadhi-07/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Aadhi-07/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Aadhi-07/leetcode/tree/master/0645-set-mismatch) |
 | [0999-available-captures-for-rook](https://github.com/Aadhi-07/leetcode/tree/master/0999-available-captures-for-rook) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Aadhi-07/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aadhi-07/leetcode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Aadhi-07/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aadhi-07/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Aadhi-07/leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aadhi-07/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Aadhi-07/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
