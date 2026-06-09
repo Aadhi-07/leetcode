@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aadhi-07/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Aadhi-07/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aadhi-07/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1929-concatenation-of-array](https://github.com/Aadhi-07/leetcode/tree/master/1929-concatenation-of-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Aadhi-07/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aadhi-07/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3850-count-sequences-to-k](https://github.com/Aadhi-07/leetcode/tree/master/3850-count-sequences-to-k) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Aadhi-07/leetcode/tree/master/0067-add-binary) |
 | [0999-available-captures-for-rook](https://github.com/Aadhi-07/leetcode/tree/master/0999-available-captures-for-rook) |
+| [1929-concatenation-of-array](https://github.com/Aadhi-07/leetcode/tree/master/1929-concatenation-of-array) |
 ## Tree
 |  |
 | ------- |
