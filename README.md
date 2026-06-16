@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Aadhi-07/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Aadhi-07/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Aadhi-07/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Aadhi-07/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Aadhi-07/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aadhi-07/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aadhi-07/leetcode/tree/master/0027-remove-element) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Aadhi-07/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Aadhi-07/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aadhi-07/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Aadhi-07/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Aadhi-07/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aadhi-07/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aadhi-07/leetcode/tree/master/0027-remove-element) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aadhi-07/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Aadhi-07/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Aadhi-07/leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Aadhi-07/leetcode/tree/master/0088-merge-sorted-array) |
 | [0645-set-mismatch](https://github.com/Aadhi-07/leetcode/tree/master/0645-set-mismatch) |
