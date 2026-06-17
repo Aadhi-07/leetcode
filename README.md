@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Aadhi-07/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Aadhi-07/leetcode/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/Aadhi-07/leetcode/tree/master/0120-triangle) |
+| [0136-single-number](https://github.com/Aadhi-07/leetcode/tree/master/0136-single-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aadhi-07/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Aadhi-07/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Aadhi-07/leetcode/tree/master/0645-set-mismatch) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Aadhi-07/leetcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/Aadhi-07/leetcode/tree/master/0089-gray-code) |
+| [0136-single-number](https://github.com/Aadhi-07/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Aadhi-07/leetcode/tree/master/0190-reverse-bits) |
 | [0645-set-mismatch](https://github.com/Aadhi-07/leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Aadhi-07/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
