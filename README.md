@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Aadhi-07/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Aadhi-07/leetcode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Aadhi-07/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Aadhi-07/leetcode/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/Aadhi-07/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Aadhi-07/leetcode/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/Aadhi-07/leetcode/tree/master/0120-triangle) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Aadhi-07/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Aadhi-07/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Aadhi-07/leetcode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/Aadhi-07/leetcode/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/Aadhi-07/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Aadhi-07/leetcode/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/Aadhi-07/leetcode/tree/master/0645-set-mismatch) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Aadhi-07/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Aadhi-07/leetcode/tree/master/0047-permutations-ii) |
 | [0089-gray-code](https://github.com/Aadhi-07/leetcode/tree/master/0089-gray-code) |
 ## Counting Sort
 |  |
