@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Aadhi-07/leetcode/tree/master/1470-shuffle-the-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aadhi-07/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Aadhi-07/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1732-find-the-highest-altitude](https://github.com/Aadhi-07/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aadhi-07/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/Aadhi-07/leetcode/tree/master/1929-concatenation-of-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Aadhi-07/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/Aadhi-07/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Aadhi-07/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Aadhi-07/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Binary Search
