@@ -168,14 +168,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Aadhi-07/leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aadhi-07/leetcode/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Aadhi-07/leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aadhi-07/leetcode/tree/master/0110-balanced-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Aadhi-07/leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aadhi-07/leetcode/tree/master/0110-balanced-binary-tree) |
 ## Sorting
 |  |
@@ -262,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aadhi-07/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Aadhi-07/leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
