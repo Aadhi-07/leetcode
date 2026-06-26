@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aadhi-07/leetcode/tree/master/0002-add-two-numbers) |
+| [0092-reverse-linked-list-ii](https://github.com/Aadhi-07/leetcode/tree/master/0092-reverse-linked-list-ii) |
 ## Recursion
 |  |
 | ------- |
