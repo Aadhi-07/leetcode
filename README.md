@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Aadhi-07/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Aadhi-07/leetcode/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/Aadhi-07/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Aadhi-07/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Aadhi-07/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Aadhi-07/leetcode/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/Aadhi-07/leetcode/tree/master/0120-triangle) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Aadhi-07/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Aadhi-07/leetcode/tree/master/0067-add-binary) |
 | [0999-available-captures-for-rook](https://github.com/Aadhi-07/leetcode/tree/master/0999-available-captures-for-rook) |
 | [1929-concatenation-of-array](https://github.com/Aadhi-07/leetcode/tree/master/1929-concatenation-of-array) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Aadhi-07/leetcode/tree/master/0054-spiral-matrix) |
 | [0999-available-captures-for-rook](https://github.com/Aadhi-07/leetcode/tree/master/0999-available-captures-for-rook) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aadhi-07/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Aadhi-07/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
