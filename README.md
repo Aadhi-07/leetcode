@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aadhi-07/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aadhi-07/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/Aadhi-07/leetcode/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aadhi-07/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Aadhi-07/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aadhi-07/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aadhi-07/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Aadhi-07/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Aadhi-07/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1768-merge-strings-alternately](https://github.com/Aadhi-07/leetcode/tree/master/1768-merge-strings-alternately) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aadhi-07/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Aadhi-07/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/Aadhi-07/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Aadhi-07/leetcode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
