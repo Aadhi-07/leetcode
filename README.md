@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aadhi-07/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Aadhi-07/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aadhi-07/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Aadhi-07/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aadhi-07/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3850-count-sequences-to-k](https://github.com/Aadhi-07/leetcode/tree/master/3850-count-sequences-to-k) |
 ## Hash Table
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aadhi-07/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Aadhi-07/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aadhi-07/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Aadhi-07/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Aadhi-07/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aadhi-07/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## String Matching
 |  |
@@ -308,8 +311,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Aadhi-07/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aadhi-07/leetcode/tree/master/0101-symmetric-tree) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Aadhi-07/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Enumeration
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aadhi-07/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Aadhi-07/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Aadhi-07/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
