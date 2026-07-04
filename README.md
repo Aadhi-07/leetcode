@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Aadhi-07/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aadhi-07/leetcode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aadhi-07/leetcode/tree/master/0110-balanced-binary-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aadhi-07/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
 | ------- |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Aadhi-07/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aadhi-07/leetcode/tree/master/0101-symmetric-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aadhi-07/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aadhi-07/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Enumeration
 |  |
@@ -322,9 +324,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aadhi-07/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aadhi-07/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aadhi-07/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aadhi-07/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
