@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Aadhi-07/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Aadhi-07/leetcode/tree/master/0645-set-mismatch) |
 | [0999-available-captures-for-rook](https://github.com/Aadhi-07/leetcode/tree/master/0999-available-captures-for-rook) |
+| [1288-remove-covered-intervals](https://github.com/Aadhi-07/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aadhi-07/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aadhi-07/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Aadhi-07/leetcode/tree/master/1470-shuffle-the-array) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aadhi-07/leetcode/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/Aadhi-07/leetcode/tree/master/0645-set-mismatch) |
 | [0761-special-binary-string](https://github.com/Aadhi-07/leetcode/tree/master/0761-special-binary-string) |
+| [1288-remove-covered-intervals](https://github.com/Aadhi-07/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aadhi-07/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aadhi-07/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/Aadhi-07/leetcode/tree/master/1833-maximum-ice-cream-bars) |
