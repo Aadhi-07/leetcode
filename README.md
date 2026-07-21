@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Aadhi-07/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aadhi-07/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Aadhi-07/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0038-count-and-say](https://github.com/Aadhi-07/leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Aadhi-07/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Aadhi-07/leetcode/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/Aadhi-07/leetcode/tree/master/0165-compare-version-numbers) |
