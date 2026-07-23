@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Aadhi-07/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aadhi-07/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aadhi-07/leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Aadhi-07/leetcode/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/Aadhi-07/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Aadhi-07/leetcode/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/Aadhi-07/leetcode/tree/master/0053-maximum-subarray) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Aadhi-07/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aadhi-07/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Aadhi-07/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/Aadhi-07/leetcode/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/Aadhi-07/leetcode/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aadhi-07/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Aadhi-07/leetcode/tree/master/0645-set-mismatch) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Aadhi-07/leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Aadhi-07/leetcode/tree/master/0054-spiral-matrix) |
 | [0999-available-captures-for-rook](https://github.com/Aadhi-07/leetcode/tree/master/0999-available-captures-for-rook) |
 | [1260-shift-2d-grid](https://github.com/Aadhi-07/leetcode/tree/master/1260-shift-2d-grid) |
