@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aadhi-07/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aadhi-07/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Aadhi-07/leetcode/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/Aadhi-07/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Aadhi-07/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Aadhi-07/leetcode/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/Aadhi-07/leetcode/tree/master/0053-maximum-subarray) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aadhi-07/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Aadhi-07/leetcode/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Aadhi-07/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Aadhi-07/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Aadhi-07/leetcode/tree/master/0047-permutations-ii) |
 | [0089-gray-code](https://github.com/Aadhi-07/leetcode/tree/master/0089-gray-code) |
