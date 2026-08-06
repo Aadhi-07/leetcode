@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aadhi-07/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aadhi-07/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aadhi-07/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Aadhi-07/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aadhi-07/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aadhi-07/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3848-check-digitorial-permutation](https://github.com/Aadhi-07/leetcode/tree/master/3848-check-digitorial-permutation) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/Aadhi-07/leetcode/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aadhi-07/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Aadhi-07/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Graph Theory
 |  |
 | ------- |
