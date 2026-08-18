@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aadhi-07/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aadhi-07/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aadhi-07/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Aadhi-07/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3850-count-sequences-to-k](https://github.com/Aadhi-07/leetcode/tree/master/3850-count-sequences-to-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aadhi-07/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aadhi-07/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Aadhi-07/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aadhi-07/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Aadhi-07/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Math
 |  |
 | ------- |
